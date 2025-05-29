@@ -1,0 +1,125 @@
+timestamp,url,estado,tiempo
+2025-05-29 15:20:45,https://www.google.com,UP,1.37
+2025-05-29 15:20:46,https://www.wikipedia.org,UP,1.05
+2025-05-29 15:20:46,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:20:48,https://example.com,UP,1.48
+2025-05-29 15:25:29,https://www.google.com,UP,1.0
+2025-05-29 15:25:31,https://www.wikipedia.org,UP,1.01
+2025-05-29 15:25:31,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:25:31,https://example.com,UP,0.65
+2025-05-29 15:27:36,https://www.google.com,UP,1.41
+2025-05-29 15:27:37,https://www.wikipedia.org,UP,1.15
+2025-05-29 15:27:37,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:27:38,https://example.com,UP,1.29
+2025-05-29 15:30:29,https://www.google.com,UP,0.53
+2025-05-29 15:30:30,https://www.wikipedia.org,UP,0.64
+2025-05-29 15:30:30,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:30:31,https://example.com,UP,0.76
+2025-05-29 15:32:35,https://www.google.com,UP,0.79
+2025-05-29 15:32:38,https://www.wikipedia.org,UP,2.34
+2025-05-29 15:32:38,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:32:39,https://example.com,UP,1.16
+2025-05-29 15:35:32,https://www.google.com,UP,0.44
+2025-05-29 15:35:32,https://www.wikipedia.org,UP,0.77
+2025-05-29 15:35:32,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:35:33,https://example.com,UP,0.67
+2025-05-29 15:40:34,https://www.google.com,UP,0.44
+2025-05-29 15:40:34,https://www.wikipedia.org,UP,0.31
+2025-05-29 15:40:34,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:40:34,https://example.com,UP,0.41
+2025-05-29 15:45:35,https://www.google.com,UP,0.43
+2025-05-29 15:45:36,https://www.wikipedia.org,UP,0.32
+2025-05-29 15:45:36,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:45:36,https://example.com,UP,0.27
+2025-05-29 15:47:32,https://www.google.com,UP,0.48
+2025-05-29 15:47:33,https://www.wikipedia.org,UP,0.31
+2025-05-29 15:47:33,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:47:36,https://example.com,UP,0.41
+2025-05-29 15:49:57,https://www.google.com,UP,0.49
+2025-05-29 15:49:57,https://www.wikipedia.org,UP,0.31
+2025-05-29 15:49:57,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:49:58,https://example.com,UP,0.44
+2025-05-29 15:50:20,https://www.google.com,UP,0.41
+2025-05-29 15:50:20,https://www.wikipedia.org,UP,0.3
+2025-05-29 15:50:20,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:50:21,https://example.com,UP,0.4
+2025-05-29 15:50:36,https://www.google.com,UP,0.46
+2025-05-29 15:50:37,https://www.wikipedia.org,UP,0.3
+2025-05-29 15:50:37,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:50:37,https://example.com,UP,0.42
+2025-05-29 15:51:38,https://www.google.com,UP,0.43
+2025-05-29 15:51:39,https://www.wikipedia.org,UP,0.34
+2025-05-29 15:51:39,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:51:40,https://example.com,UP,0.38
+2025-05-29 15:52:33,https://www.google.com,UP,0.45
+2025-05-29 15:52:34,https://www.wikipedia.org,UP,0.29
+2025-05-29 15:52:34,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:52:34,https://example.com,UP,0.4
+2025-05-29 15:54:57,https://www.google.com,UP,0.48
+2025-05-29 15:54:57,https://www.wikipedia.org,UP,0.35
+2025-05-29 15:54:57,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:54:58,https://example.com,UP,0.39
+2025-05-29 15:55:21,https://www.google.com,UP,0.41
+2025-05-29 15:55:21,https://www.wikipedia.org,UP,0.32
+2025-05-29 15:55:21,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:55:22,https://example.com,UP,0.41
+2025-05-29 15:55:38,https://www.google.com,UP,0.45
+2025-05-29 15:55:38,https://www.wikipedia.org,UP,0.32
+2025-05-29 15:55:38,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:55:39,https://example.com,UP,0.39
+2025-05-29 15:56:39,https://www.google.com,UP,0.4
+2025-05-29 15:56:39,https://www.wikipedia.org,UP,0.3
+2025-05-29 15:56:39,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:56:41,https://example.com,UP,0.41
+2025-05-29 15:57:35,https://www.google.com,UP,0.42
+2025-05-29 15:57:35,https://www.wikipedia.org,UP,0.31
+2025-05-29 15:57:35,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 15:57:36,https://example.com,UP,0.41
+2025-05-29 15:59:59,https://www.google.com,UP,0.44
+2025-05-29 15:59:59,https://www.wikipedia.org,UP,0.33
+2025-05-29 15:59:59,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:00:00,https://example.com,UP,0.39
+2025-05-29 16:00:23,https://www.google.com,UP,0.41
+2025-05-29 16:00:23,https://www.wikipedia.org,UP,0.31
+2025-05-29 16:00:23,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:00:24,https://example.com,UP,0.44
+2025-05-29 16:00:40,https://www.google.com,UP,0.59
+2025-05-29 16:00:40,https://www.wikipedia.org,UP,0.35
+2025-05-29 16:00:40,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:00:41,https://example.com,UP,0.41
+2025-05-29 16:01:41,https://www.google.com,UP,0.37
+2025-05-29 16:01:42,https://www.wikipedia.org,UP,0.31
+2025-05-29 16:01:42,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:01:43,https://example.com,UP,0.41
+2025-05-29 16:02:37,https://www.google.com,UP,0.4
+2025-05-29 16:02:37,https://www.wikipedia.org,UP,0.33
+2025-05-29 16:02:37,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:02:38,https://example.com,UP,0.4
+2025-05-29 16:05:00,https://www.google.com,UP,0.38
+2025-05-29 16:05:01,https://www.wikipedia.org,UP,0.31
+2025-05-29 16:05:01,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:05:02,https://example.com,UP,0.4
+2025-05-29 16:05:25,https://www.google.com,UP,0.42
+2025-05-29 16:05:25,https://www.wikipedia.org,UP,0.34
+2025-05-29 16:05:25,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:05:26,https://example.com,UP,0.4
+2025-05-29 16:05:41,https://www.google.com,UP,0.4
+2025-05-29 16:05:41,https://www.wikipedia.org,UP,0.31
+2025-05-29 16:05:41,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:05:42,https://example.com,UP,0.74
+2025-05-29 16:06:44,https://www.google.com,UP,0.37
+2025-05-29 16:06:44,https://www.wikipedia.org,UP,0.3
+2025-05-29 16:06:44,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:06:46,https://example.com,UP,0.43
+2025-05-29 16:07:39,https://www.google.com,UP,0.41
+2025-05-29 16:07:39,https://www.wikipedia.org,UP,0.32
+2025-05-29 16:07:39,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:07:40,https://example.com,UP,0.38
+2025-05-29 16:10:02,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:10:26,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:10:42,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:11:46,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:12:40,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:15:02,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:15:27,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
+2025-05-29 16:15:42,https://www.thiswebsitedoesnotexist.tld,DOWN (Error),N/A
